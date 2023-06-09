@@ -1,1 +1,2 @@
-# c36-yann
+# synchronousBallMovement
+Ball moving synchronously
